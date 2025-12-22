@@ -1,6 +1,5 @@
 https://acesounderglass.com/feed/
 https://alastairjohnston.com/feed.xml
-https://www.youtube.com/feeds/videos.xml?channel_id=UC54U5gpKkaa_BpXRVNip2Dw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnhpSiQ1iBJbt_euYU9myxA
 https://www.are.na/editorial/feed/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw
@@ -34,7 +33,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCV9f9VrkwR-EX9gtYHe11Tw
 https://feeds.feedburner.com/dancarlin/history?format=xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw
 https://www.inkandswitch.com/index.xml
-https://johnnydecimal.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
@@ -46,7 +44,6 @@ https://milan.cvitkovic.net/index.xml
 https://nabeelqu.co/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
 https://nntaleb.substack.com/feed
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-iaQP4DqEaith7kNvDP3mg
 https://pipettejockey.com/feed/
 https://practal.com/feed.rss
 https://practicalbetterments.com/feed.xml
@@ -64,7 +61,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC9z4-lvnluk10Ix3qsqwivA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcGPU4A6xJ1OYOkvfMoo25w
 https://www.smbc-comics.com/comic/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvcEBQ0K3UsQ8bzWKHKQmbw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxAS_aK7sS2x_bqnlJHDSHw
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLnbzopdwFrnYyvwrqTB_5AhufdOMisGnF&si=q2m1UqV4YLutJ0XM
 https://terriblesoftware.org/feed/
 https://eighteenthelephant.com/feed/
 https://pbfcomics.com/feed/
