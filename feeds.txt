@@ -7,3 +7,4 @@ https://brr.fyi/feed.xml
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
 https://ellanew.com/feed.rss
+https://www.henrikkarlsson.xyz/feed
