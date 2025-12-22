@@ -7,7 +7,14 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw
 https://arun.is/rss.xml
 https://ciechanow.ski/atom.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEbFX3P9ADiJvle5Z0Qyw2A
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDdHf1PUIfLi5x4nXzhbJrA
 https://brr.fyi/feed.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAy8Te0G17RcR_ynLqRwExw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCb8FPM22JlU-FriBrwyqoxg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcWZY8dxd4HhlH5vY_Luzgw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdgUN8rX3SEb9L7FDub3I6A
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfpzEvC0g9IclyzpuzR4NoQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8FNZ2LaT4rJ6uA-o6wHT6w
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
 https://ellanew.com/feed.rss
