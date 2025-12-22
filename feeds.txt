@@ -68,7 +68,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCvcEBQ0K3UsQ8bzWKHKQmbw
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnbzopdwFrnYyvwrqTB_5AhufdOMisGnF&si=q2m1UqV4YLutJ0XM
 https://terriblesoftware.org/feed/
 https://eighteenthelephant.com/feed/
-https://theoreticalneuroscience.no/feed/
+https://feeds.libsyn.com/489902/rss
 https://pbfcomics.com/feed/
 https://thesephist.com/index.xml
 https://thinking-about-science.com/feed/
