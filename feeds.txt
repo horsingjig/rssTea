@@ -38,11 +38,15 @@ https://johnnydecimal.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcB3cf8Yst54E3Zqttz7tJA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
 https://kasurian.com/feed
 https://lastplacecomics.com/feed/
 https://milan.cvitkovic.net/index.xml
 https://nabeelqu.co/rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
 https://nntaleb.substack.com/feed
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-iaQP4DqEaith7kNvDP3mg
 https://pipettejockey.com/feed/
 https://practal.com/feed.rss
 https://practicalbetterments.com/feed.xml
@@ -53,7 +57,14 @@ https://reactionwheel.net/feed
 https://reeserichardson.blog/feed/
 https://robinrendle.com/feed.xml
 https://ryanreid.com/comics/feed/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCovagaiL6pBYWfvThaXVniA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCriil4aussYUAGVwpm_zI9w
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-Z6xQimbZ0aV8A4HqeLZeQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9z4-lvnluk10Ix3qsqwivA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcGPU4A6xJ1OYOkvfMoo25w
 https://www.smbc-comics.com/comic/rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvcEBQ0K3UsQ8bzWKHKQmbw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxAS_aK7sS2x_bqnlJHDSHw
 https://terriblesoftware.org/feed/
 https://eighteenthelephant.com/feed/
 https://pbfcomics.com/feed/
@@ -61,4 +72,5 @@ https://thesephist.com/index.xml
 https://thinking-about-science.com/feed/
 https://buttondown.com/tinyawards/rss
 https://warandpeas.com/feed/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDIp-LSpPz6Pbvv9UC3k3GA
 https://xkcd.com/rss.xml
