@@ -42,6 +42,7 @@ https://www.inkandswitch.com/index.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnuffEHe-KtC6jt8BKex6HQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
 https://kasurian.com/feed
 https://lastplacecomics.com/feed/
