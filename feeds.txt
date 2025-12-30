@@ -53,6 +53,7 @@ https://nabeelqu.co/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
 https://nntaleb.substack.com/feed
 https://feeds.megaphone.fm/ESP6921732651
+https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
 https://pipettejockey.com/feed/
 https://ploum.net/atom_en.xml
