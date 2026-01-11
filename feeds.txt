@@ -88,6 +88,7 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLnbzopdwFrnYyvwrqTB_5Ahufd
 https://eighteenthelephant.com/feed/
 https://feeds.libsyn.com/489902/rss
 https://pbfcomics.com/feed/
+https://pieterma.es/rss.xml
 https://thesephist.com/index.xml
 https://thinking-about-science.com/feed/
 https://buttondown.com/tinyawards/rss
