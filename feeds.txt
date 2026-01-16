@@ -82,6 +82,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC0vEfrrpBHyM42BHm8rksFg
 https://baxter.photos/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcGPU4A6xJ1OYOkvfMoo25w
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOVo293Bj9HYEBpMDcDzjPtR
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOVnP_GVpy6QVRB8L6m8ZiCw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvcEBQ0K3UsQ8bzWKHKQmbw
 https://terriblesoftware.org/feed/
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnbzopdwFrnYyvwrqTB_5AhufdOMisGnF&si=q2m1UqV4YLutJ0XM
