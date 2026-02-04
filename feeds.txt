@@ -4,7 +4,6 @@ https://alastairjohnston.com/feed.xml
 https://kill-the-newsletter.com/feeds/u2mehlqhel3slyohkhbh.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtscFf8VayggrDYjOwDke_Q
 https://anchor.fm/s/f5102908/podcast/rss
-https://api.substack.com/feed/podcast/4118304/private/713340de-14c1-4d6f-b1ec-5079169e5b5f.rss
 https://annacorinne.substack.com/feed
 https://www.are.na/editorial/feed/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw
