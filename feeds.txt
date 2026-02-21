@@ -19,6 +19,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCAy8Te0G17RcR_ynLqRwExw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcWZY8dxd4HhlH5vY_Luzgw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug
+https://theconversation.com/global/home-page.atom
+https://theconversation.com/us/technology/articles.atom
+https://theconversation.com/ca/culture/articles.atom
+https://theconversation.com/uk/insights/articles.atom
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
 https://feeds.feedburner.com/dancarlin/history?format=xml
