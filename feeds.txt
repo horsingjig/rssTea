@@ -61,6 +61,7 @@ https://kasurian.com/feed
 https://lastplacecomics.com/feed/
 https://www.eleanorkonik.com/feed
 https://milan.cvitkovic.net/index.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkv6xZ98rkJjHZLtYlAqJmg
 https://nabeelqu.co/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
 https://nntaleb.substack.com/feed
