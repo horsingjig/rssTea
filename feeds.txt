@@ -4,6 +4,7 @@ https://alastairjohnston.com/feed.xml
 https://kill-the-newsletter.com/feeds/u2mehlqhel3slyohkhbh.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtscFf8VayggrDYjOwDke_Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5E_q3-du7mrDZIyETFZ_Xw
+https://www.analogue.co/feed
 https://anchor.fm/s/f5102908/podcast/rss
 https://annacorinne.substack.com/feed
 https://www.are.na/editorial/feed/rss
@@ -99,5 +100,6 @@ https://thesephist.com/index.xml
 https://thinking-about-science.com/feed/
 https://buttondown.com/tinyawards/rss
 https://notthebe.ee/rss.xml
+https://wickedtongue.substack.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg
 https://xkcd.com/rss.xml
