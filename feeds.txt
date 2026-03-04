@@ -3,7 +3,6 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLJtitKU0CAegwL_3j59S7_93IE
 https://alastairjohnston.com/feed.xml
 https://kill-the-newsletter.com/feeds/u2mehlqhel3slyohkhbh.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtscFf8VayggrDYjOwDke_Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UC5E_q3-du7mrDZIyETFZ_Xw
 https://www.analogue.co/feed
 https://anchor.fm/s/f5102908/podcast/rss
 https://annacorinne.substack.com/feed
@@ -21,9 +20,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcWZY8dxd4HhlH5vY_Luzgw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug
 https://theconversation.com/global/home-page.atom
+https://theconversation.com/ca/technology/articles.atom
+https://theconversation.com/uk/technology/articles.atom
 https://theconversation.com/us/technology/articles.atom
-https://theconversation.com/ca/culture/articles.atom
-https://theconversation.com/uk/insights/articles.atom
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
 https://feeds.feedburner.com/dancarlin/history?format=xml
@@ -38,6 +37,7 @@ https://existentialcomics.com/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFy9hgi7oH9pFBE4BwJMKRw
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9z4-lvnluk10Ix3qsqwivA
 https://fi-le.net/feed.xml
+https://www.farnamstreetblog.com/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGudGqToOw9hWGR88W9Jutg
@@ -52,6 +52,7 @@ https://www.inkandswitch.com/index.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
+https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr0m06mDn1.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCgPllmMx1h-k5ybwzvqNsQw
 https://mickeygalvin.com/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnuffEHe-KtC6jt8BKex6HQ
@@ -80,7 +81,6 @@ https://reeserichardson.blog/feed/
 https://robinrendle.com/feed.xml
 https://ryanreid.com/comics/feed/
 https://www.smbc-comics.com/comic/rss
-https://www.youtube.com/feeds/videos.xml?channel_id=UCovagaiL6pBYWfvThaXVniA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCriil4aussYUAGVwpm_zI9w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAbAsEZ-0LccTNbl8r-3EaQ
 https://www.ashcroftcb.com/blog-feed.xml
@@ -90,7 +90,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCcGPU4A6xJ1OYOkvfMoo25w
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOVo293Bj9HYEBpMDcDzjPtR
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOVnP_GVpy6QVRB8L6m8ZiCw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvcEBQ0K3UsQ8bzWKHKQmbw
-https://terriblesoftware.org/feed/
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnbzopdwFrnYyvwrqTB_5AhufdOMisGnF&si=q2m1UqV4YLutJ0XM
 https://eighteenthelephant.com/feed/
 https://feeds.libsyn.com/489902/rss
@@ -101,5 +100,6 @@ https://thinking-about-science.com/feed/
 https://buttondown.com/tinyawards/rss
 https://notthebe.ee/rss.xml
 https://wickedtongue.substack.com/feed
+https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr5VDAk0Is.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg
 https://xkcd.com/rss.xml
