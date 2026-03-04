@@ -51,7 +51,6 @@ https://www.inkandswitch.com/index.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
-https://kill-the-newsletter.com/feeds/hlyl9ephzmsd57eo0t28.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCgPllmMx1h-k5ybwzvqNsQw
 https://mickeygalvin.com/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnuffEHe-KtC6jt8BKex6HQ
@@ -99,7 +98,6 @@ https://pieterma.es/rss.xml
 https://thesephist.com/index.xml
 https://thinking-about-science.com/feed/
 https://buttondown.com/tinyawards/rss
-https://warandpeas.com/feed/
 https://notthebe.ee/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg
 https://xkcd.com/rss.xml
