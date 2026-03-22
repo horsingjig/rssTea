@@ -1,4 +1,5 @@
 https://acesounderglass.com/feed/
+https://www.asimov.press/feed
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLJtitKU0CAegwL_3j59S7_93IEzvhYcDR
 https://alastairjohnston.com/feed.xml
 https://kill-the-newsletter.com/feeds/u2mehlqhel3slyohkhbh.xml
