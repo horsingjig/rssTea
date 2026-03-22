@@ -85,6 +85,7 @@ https://reactionwheel.net/feed
 https://reeserichardson.blog/feed/
 https://robinrendle.com/feed.xml
 https://ryanreid.com/comics/feed/
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-ufRLYrXxrIEApGn9VG5pQ
 https://www.smbc-comics.com/comic/rss
 https://sublimeinternet.substack.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCriil4aussYUAGVwpm_zI9w
