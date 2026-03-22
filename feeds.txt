@@ -51,6 +51,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCX2X0mwnKTzdbSHXKD6WILw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCPlXk3e0X5x2tUxkiQJlSxQ
 https://feeds.simplecast.com/m3TgdnAm
 https://www.inkandswitch.com/index.xml
+https://blog.kagi.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
