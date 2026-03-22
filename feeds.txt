@@ -37,8 +37,9 @@ https://eukaryotewritesblog.com/feed/
 https://existentialcomics.com/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFy9hgi7oH9pFBE4BwJMKRw
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9z4-lvnluk10Ix3qsqwivA
-https://fi-le.net/feed.xml
 https://www.farnamstreetblog.com/feed/
+https://fi-le.net/feed.xml
+https://frame.work/gb/en/blog.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGudGqToOw9hWGR88W9Jutg
