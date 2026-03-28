@@ -25,6 +25,7 @@ https://theconversation.com/global/home-page.atom
 https://theconversation.com/ca/technology/articles.atom
 https://theconversation.com/uk/technology/articles.atom
 https://theconversation.com/us/technology/articles.atom
+https://feeds.feedburner.com/dancarlin/history?format=xml
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
 https://feeds.feedburner.com/dancarlin/history?format=xml
