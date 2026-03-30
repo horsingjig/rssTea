@@ -108,6 +108,7 @@ https://thesephist.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmHz7DQbbkcY_UoWY8bBJLw
 https://www.kaltura.com/api_v3/getFeed.php?partnerId=2010292&feedId=1_gp615cm8
 https://fetchrss.com/feed/1vxr1s7AH7Jy1w2FRI8PYEyo.rss
+https://synthetic.new/blog
 https://thinking-about-science.com/feed/
 https://buttondown.com/tinyawards/rss
 https://notthebe.ee/rss.xml
