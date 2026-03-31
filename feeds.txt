@@ -48,6 +48,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCGudGqToOw9hWGR88W9Jutg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw
 https://feeds.simplecast.com/kwWc0lhf
 https://johannesklingebiel.de/feed.xml
+https://june.kim/feed.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxcFvnDcSsqk0PpY_nnGKzg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCMb0O2CdPBNi-QqPk5T3gsQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCX2X0mwnKTzdbSHXKD6WILw
