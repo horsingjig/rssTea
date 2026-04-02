@@ -25,6 +25,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug
 https://theconversation.com/ca/technology/articles.atom
 https://theconversation.com/uk/technology/articles.atom
 https://theconversation.com/us/technology/articles.atom
+https://danielmiessler.com/feed.rss
 https://feeds.feedburner.com/dancarlin/history?format=xml
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
