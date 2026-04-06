@@ -59,6 +59,7 @@ https://www.inkandswitch.com/index.xml
 https://blog.kagi.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://www.kenkoonwong.com/blog/
+https://kennethreitz.org/feed.xml
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr0m06mDn1.rss
