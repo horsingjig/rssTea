@@ -118,6 +118,7 @@ https://tidesofsea.com/
 https://buttondown.com/tinyawards/rss
 https://notthebe.ee/rss.xml
 https://www.unseenhistories.com/rss/
+https://virology.ws/feed/
 https://wickedtongue.substack.com/feed
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr5VDAk0Is.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg
