@@ -59,8 +59,11 @@ https://feeds.simplecast.com/m3TgdnAm
 https://www.inkandswitch.com/index.xml
 https://blog.kagi.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
+https://kasurian.com/feed
 https://www.kenkoonwong.com/blog/
 https://kennethreitz.org/feed.xml
+https://www.eleanorkonik.com/feed
+https://hemera.bearblog.dev/feed/
 https://solar.lowtechmagazine.com/index.xml
 https://maggieappleton.com/rss.xml
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr0m06mDn1.rss
@@ -69,9 +72,7 @@ https://mickeygalvin.com/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnuffEHe-KtC6jt8BKex6HQ
 https://anchor.fm/s/fed93d6c/podcast/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
-https://kasurian.com/feed
 https://lastplacecomics.com/feed/
-https://www.eleanorkonik.com/feed
 https://milan.cvitkovic.net/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkv6xZ98rkJjHZLtYlAqJmg
 https://nabeelqu.co/rss
