@@ -46,6 +46,7 @@ https://fi-le.net/feed.xml
 https://frame.work/gb/en/blog.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
+https://jhellerstein.github.io/blog/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGudGqToOw9hWGR88W9Jutg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw
 https://feeds.simplecast.com/kwWc0lhf
