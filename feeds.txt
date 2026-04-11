@@ -15,7 +15,6 @@ https://www.are.na/editorial/feed/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw
 https://arun.is/rss.xml
 https://braininspired.co/feed/podcast/brain-inspired
-https://www.youtube.com/feeds/videos.xml?channel_id=UCq7nXDX98k4uX84AjoJgOFQ
 https://ciechanow.ski/atom.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEbFX3P9ADiJvle5Z0Qyw2A
