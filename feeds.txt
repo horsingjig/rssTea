@@ -37,7 +37,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCGSg3iQgRQ5M9CpluqkMAZg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC8FNZ2LaT4rJ6uA-o6wHT6w
 https://www.dinacon.org/feed/podcast
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0476d19f-5abc-4f11-a193-ae2b00156334/136b5ea0-8dcb-49f5-b3a8-ae2b00156347/podcast.rss
-https://ellanew.com/feed.rss
 https://eukaryotewritesblog.com/feed/
 https://existentialcomics.com/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFy9hgi7oH9pFBE4BwJMKRw
@@ -63,7 +62,6 @@ https://blog.kagi.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://kasurian.com/feed
 https://www.kenkoonwong.com/blog/
-https://kennethreitz.org/feed.xml
 https://www.eleanorkonik.com/feed
 https://hemera.bearblog.dev/feed/
 https://solar.lowtechmagazine.com/index.xml
