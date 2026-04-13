@@ -113,6 +113,7 @@ https://pbfcomics.com/feed/
 https://pieterma.es/rss.xml
 https://thesephist.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmHz7DQbbkcY_UoWY8bBJLw
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOUlZV3toQ1mjMDDcBE55cgr
 https://www.kaltura.com/api_v3/getFeed.php?partnerId=2010292&feedId=1_gp615cm8
 https://fetchrss.com/feed/1vxr1s7AH7Jy1w2FRI8PYEyo.rss
 https://synthetic.new/blog
