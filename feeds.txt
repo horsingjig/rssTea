@@ -117,6 +117,7 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOUlZV3toQ1mjMDDc
 https://www.kaltura.com/api_v3/getFeed.php?partnerId=2010292&feedId=1_gp615cm8
 https://fetchrss.com/feed/1vxr1s7AH7Jy1w2FRI8PYEyo.rss
 https://synthetic.new/blog
+https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA
 https://thinking-about-science.com/feed/
 https://tidesofsea.com/
 https://buttondown.com/tinyawards/rss
