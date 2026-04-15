@@ -112,6 +112,7 @@ https://eighteenthelephant.com/feed/
 https://feeds.libsyn.com/489902/rss
 https://pbfcomics.com/feed/
 https://pieterma.es/rss.xml
+https://psyche.co/feed.rss
 https://thesephist.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmHz7DQbbkcY_UoWY8bBJLw
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOUlZV3toQ1mjMDDcBE55cgr
