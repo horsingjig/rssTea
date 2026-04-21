@@ -37,6 +37,7 @@ https://feeds.feedburner.com/dancarlin/history?format=xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCdgUN8rX3SEb9L7FDub3I6A
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGSg3iQgRQ5M9CpluqkMAZg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC8FNZ2LaT4rJ6uA-o6wHT6w
+https://www.youtube.com/feeds/videos.xml?playlist_id=PL1MPVszm5-apdoFvLfnrNw3X6zgxNhmWL
 https://www.dinacon.org/feed/podcast
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0476d19f-5abc-4f11-a193-ae2b00156334/136b5ea0-8dcb-49f5-b3a8-ae2b00156347/podcast.rss
 https://eukaryotewritesblog.com/feed/
