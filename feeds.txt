@@ -84,6 +84,7 @@ https://nntaleb.substack.com/feed
 https://feeds.megaphone.fm/ESP6921732651
 https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
+https://www.owlposting.com/feed
 https://www.pauljmiller.com/rss.xml
 https://pipettejockey.com/feed/
 https://ploum.net/atom_en.xml
