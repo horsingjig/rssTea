@@ -21,6 +21,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw
 https://arun.is/rss.xml
 https://biophilic.blogspot.com/feeds/posts/default?alt=rss
 https://braininspired.co/feed/podcast/brain-inspired
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKXIGtpAp5VlJdbmfdSTS9Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnZtp69rm-xXNbkOakLpORA
 https://ciechanow.ski/atom.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEbFX3P9ADiJvle5Z0Qyw2A
@@ -31,11 +33,14 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcWZY8dxd4HhlH5vY_Luzgw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug
 https://theconversation.com/us/technology/articles.atom
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCYX4s1DCn51Hpf1peHS30Q
 https://danielmiessler.com/feed.rss
 https://davidoks.blog/feed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxfI6Hj_ZCVD7H4iQnYz3zQ
 https://feeds.feedburner.com/dancarlin/history?format=xml
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8nsCoikuQdKJflLAOEwlTw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCdgUN8rX3SEb9L7FDub3I6A
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGSg3iQgRQ5M9CpluqkMAZg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC8FNZ2LaT4rJ6uA-o6wHT6w
@@ -51,9 +56,11 @@ https://fi-le.net/feed.xml
 https://frame.work/gb/en/blog.rss
 https://www.frontporchrepublic.com/feed/
 https://fs.blog/feed/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoq2qlWgvvKJzW_hBkLIE8w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
 https://jhellerstein.github.io/blog/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9URaOmp3OnO2UaNyeP_Vsw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGudGqToOw9hWGR88W9Jutg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw
 https://feeds.simplecast.com/kwWc0lhf
@@ -92,11 +99,13 @@ https://nikomc.com/feed.xml
 https://buttondown.com/nikomc/rss
 https://noahie.xyz/blog/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnBU5lGDMnsRN6SamwSwq4g
 https://nntaleb.substack.com/feed
 https://feeds.megaphone.fm/ESP6921732651
 https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
 https://www.owlposting.com/feed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAuEjBW8MgKN9DyCvjEPFew
 https://www.pauljmiller.com/rss.xml
 https://pipettejockey.com/feed/
 https://ploum.net/atom_en.xml
@@ -134,6 +143,7 @@ https://feeds.libsyn.com/489902/rss
 https://pbfcomics.com/feed/
 https://pieterma.es/rss.xml
 https://psyche.co/feed.rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEGPtJYh_n78ADhYmZkU-VQ
 https://thesephist.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmHz7DQbbkcY_UoWY8bBJLw
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOUlZV3toQ1mjMDDcBE55cgr
@@ -148,6 +158,7 @@ https://rss.libsyn.com/shows/489902/destinations/4181327.xml
 https://thinking-about-science.com/feed/
 https://tidesofsea.com/
 https://tracesofhumanity.org/rss/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCM1p08OWIP7nt_BOh-oBcNw
 https://buttondown.com/tinyawards/rss
 https://notthebe.ee/rss.xml
 https://www.unseenhistories.com/rss/
