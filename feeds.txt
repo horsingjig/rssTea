@@ -21,6 +21,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw
 https://arun.is/rss.xml
 https://biophilic.blogspot.com/feeds/posts/default?alt=rss
 https://braininspired.co/feed/podcast/brain-inspired
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUeZBocfxALSUdOgNJB5ySA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCKXIGtpAp5VlJdbmfdSTS9Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnZtp69rm-xXNbkOakLpORA
 https://ciechanow.ski/atom.xml
@@ -81,6 +82,7 @@ https://www.eleanorkonik.com/feed
 https://knowingneurons.com/feed/
 https://hemera.bearblog.dev/feed/
 https://solar.lowtechmagazine.com/index.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCT5Jop5RID99sx5ZukHkO5g
 https://maggieappleton.com/rss.xml
 https://magnusross.github.io/index.xml
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr0m06mDn1.rss
@@ -153,6 +155,7 @@ https://www.quantamagazine.org/tag/image-gallery/feed/
 https://smoothbrains.net/atom.xml
 https://sublimeinternet.substack.com/feed
 https://synthetic.new/blog
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl_AWm-IaQzl73KPlHWf12A
 https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA
 https://rss.libsyn.com/shows/489902/destinations/4181327.xml
 https://thinking-about-science.com/feed/
