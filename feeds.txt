@@ -62,6 +62,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCoq2qlWgvvKJzW_hBkLIE8w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
 https://jhellerstein.github.io/blog/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC87btkMooKKUWYgFOBKhrrA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9URaOmp3OnO2UaNyeP_Vsw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGudGqToOw9hWGR88W9Jutg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw
