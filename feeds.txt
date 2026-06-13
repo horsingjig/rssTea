@@ -29,6 +29,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEbFX3P9ADiJvle5Z0Qyw2A
 https://www.youtube.com/feeds/videos.xml?channel_id=UCILl8ozWuxnFYXIe2svjHhg
 https://brr.fyi/feed.xml
+https://bxt.rs/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAy8Te0G17RcR_ynLqRwExw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcWZY8dxd4HhlH5vY_Luzgw
@@ -147,7 +148,6 @@ https://eighteenthelephant.com/feed/
 https://feeds.libsyn.com/489902/rss
 https://pbfcomics.com/feed/
 https://pieterma.es/rss.xml
-https://psyche.co/feed.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEGPtJYh_n78ADhYmZkU-VQ
 https://thesephist.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmHz7DQbbkcY_UoWY8bBJLw
