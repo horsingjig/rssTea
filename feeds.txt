@@ -88,6 +88,7 @@ https://solar.lowtechmagazine.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCT5Jop5RID99sx5ZukHkO5g
 https://maggieappleton.com/rss.xml
 https://magnusross.github.io/index.xml
+https://matthewbutterick.com/chron/
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr0m06mDn1.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCgPllmMx1h-k5ybwzvqNsQw
 https://mickeygalvin.com/rss
