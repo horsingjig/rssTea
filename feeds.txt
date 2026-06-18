@@ -35,6 +35,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCcWZY8dxd4HhlH5vY_Luzgw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug
 https://theconversation.com/us/technology/articles.atom
+https://www.construction-physics.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCCYX4s1DCn51Hpf1peHS30Q
 https://danielmiessler.com/feed.rss
 https://davidoks.blog/feed
