@@ -57,6 +57,7 @@ https://existentialcomics.com/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFy9hgi7oH9pFBE4BwJMKRw
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9z4-lvnluk10Ix3qsqwivA
 https://www.farnamstreetblog.com/feed/
+https://faroutcompany.com/feed/
 https://fi-le.net/feed.xml
 https://frame.work/gb/en/blog.rss
 https://www.frontporchrepublic.com/feed/
@@ -100,7 +101,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
 https://lastplacecomics.com/feed/
 https://marcel.io/posts-en.xml
 https://milan.cvitkovic.net/index.xml
-https://mitchwagner.com/feed.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkv6xZ98rkJjHZLtYlAqJmg
 https://nabeelqu.co/rss
 https://nikomc.com/feed.xml
