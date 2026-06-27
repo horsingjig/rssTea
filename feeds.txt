@@ -40,6 +40,7 @@ https://www.construction-physics.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCCYX4s1DCn51Hpf1peHS30Q
 https://danielmiessler.com/feed.rss
 https://davidoks.blog/feed
+https://davidbessis.substack.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxfI6Hj_ZCVD7H4iQnYz3zQ
 https://feeds.feedburner.com/dancarlin/history?format=xml
 https://drb.ie/feed/
