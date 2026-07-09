@@ -115,6 +115,7 @@ https://feeds.megaphone.fm/ESP6921732651
 https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
 https://www.owlposting.com/feed
+https://www.blopig.com/blog/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAuEjBW8MgKN9DyCvjEPFew
 https://www.pauljmiller.com/rss.xml
 https://pipettejockey.com/feed/
