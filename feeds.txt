@@ -155,6 +155,7 @@ https://eighteenthelephant.com/feed/
 https://feeds.libsyn.com/489902/rss
 https://pbfcomics.com/feed/
 https://pieterma.es/rss.xml
+https://planktonvalhalla.com/atom.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEGPtJYh_n78ADhYmZkU-VQ
 https://thesephist.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmHz7DQbbkcY_UoWY8bBJLw
