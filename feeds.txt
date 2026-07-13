@@ -141,6 +141,7 @@ https://rok.coffee/en-gb/blogs/news.atom
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-ufRLYrXxrIEApGn9VG5pQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCE7OiYOp6d1xbTZnfplmZUQ
 https://www.smbc-comics.com/comic/rss
+https://smallpotatoes.paulbloom.net/feed
 https://sofiechan.com/feed
 https://sublimeinternet.substack.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCriil4aussYUAGVwpm_zI9w
