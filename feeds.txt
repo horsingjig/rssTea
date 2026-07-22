@@ -114,6 +114,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnBU5lGDMnsRN6SamwSwq4g
 https://nntaleb.substack.com/feed
 https://feeds.megaphone.fm/ESP6921732651
+https://narendranag.com/feed.xml
 https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
 https://www.owlposting.com/feed
