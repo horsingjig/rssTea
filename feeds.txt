@@ -121,6 +121,7 @@ https://www.owlposting.com/feed
 https://www.blopig.com/blog/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAuEjBW8MgKN9DyCvjEPFew
 https://www.pauljmiller.com/rss.xml
+https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f
 https://pipettejockey.com/feed/
 https://ploum.net/atom_en.xml
 https://powermyth.vercel.app/feed.xml
