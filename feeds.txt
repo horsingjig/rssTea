@@ -191,3 +191,4 @@ https://worksinprogress.co/rss.xml
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr5VDAk0Is.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg
 https://xkcd.com/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZuNC5BF3v__0NuBpcqAOQA
