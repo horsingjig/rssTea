@@ -132,7 +132,6 @@ https://ploum.net/atom_en.xml
 https://powermyth.vercel.app/feed.xml
 https://practal.com/feed.rss
 https://practicalbetterments.com/feed.xml
-https://proton.me/blog/feed
 https://psyche.co/feed.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ
 https://qualiacomputing.com/feed/
