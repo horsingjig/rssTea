@@ -67,7 +67,6 @@ https://faroutcompany.com/feed/
 https://fi-le.net/feed.xml
 https://frame.work/gb/en/blog.rss
 https://www.frontporchrepublic.com/feed/
-https://feed.podbean.com/fens-cast/feed.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCoq2qlWgvvKJzW_hBkLIE8w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
@@ -80,7 +79,6 @@ https://feeds.simplecast.com/kwWc0lhf
 https://johannesklingebiel.de/feed.xml
 https://jordanlord.co.uk/rss.xml
 https://june.kim/feed.xml
-http://feeds.libsyn.com/400298/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxcFvnDcSsqk0PpY_nnGKzg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCMb0O2CdPBNi-QqPk5T3gsQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCX2X0mwnKTzdbSHXKD6WILw
@@ -90,7 +88,7 @@ https://www.inkandswitch.com/index.xml
 https://blog.kagi.com/rss.xml
 https://karpathy.bearblog.dev/feed/?type=rss
 https://kasurian.com/feed
-https://www.kenkoonwong.com/index.xml
+https://www.kenkoonwong.com/blog/
 https://www.eleanorkonik.com/feed
 https://knowingneurons.com/feed/
 https://hemera.bearblog.dev/feed/
@@ -122,8 +120,6 @@ https://narendranag.com/feed.xml
 https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
 https://www.owlposting.com/feed
-https://www.odysseaspx.com/blog.rss
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLGeEhziG26GL8jkvI3EMeqp_yPpWUBtcm
 https://www.blopig.com/blog/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAuEjBW8MgKN9DyCvjEPFew
 https://www.pauljmiller.com/rss.xml
@@ -133,6 +129,7 @@ https://ploum.net/atom_en.xml
 https://powermyth.vercel.app/feed.xml
 https://practal.com/feed.rss
 https://practicalbetterments.com/feed.xml
+https://proton.me/blog/feed
 https://psyche.co/feed.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ
 https://qualiacomputing.com/feed/
@@ -176,11 +173,12 @@ https://fetchrss.com/feed/1vxr1s7AH7Jy1w2FRI8PYEyo.rss
 https://www.quantamagazine.org/tag/image-gallery/feed/
 https://smoothbrains.net/atom.xml
 https://sublimeinternet.substack.com/feed
+https://synthetic.new/blog
 https://www.youtube.com/feeds/videos.xml?channel_id=UCl_AWm-IaQzl73KPlHWf12A
 https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA
 https://rss.libsyn.com/shows/489902/destinations/4181327.xml
 https://thinking-about-science.com/feed/
-https://tidesofsea.com/feed.rss
+https://tidesofsea.com/
 https://tracesofhumanity.org/rss/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCM1p08OWIP7nt_BOh-oBcNw
 https://buttondown.com/tinyawards/rss
