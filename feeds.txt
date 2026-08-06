@@ -122,6 +122,7 @@ https://narendranag.com/feed.xml
 https://nonzerosum.games/rss.xml
 https://feeds.simplecast.com/FO6kxYGj
 https://www.owlposting.com/feed
+https://www.odysseaspx.com/blog.rss
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLGeEhziG26GL8jkvI3EMeqp_yPpWUBtcm
 https://www.blopig.com/blog/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAuEjBW8MgKN9DyCvjEPFew
