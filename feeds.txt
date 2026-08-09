@@ -60,6 +60,7 @@ https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0476
 https://www.egorthinks.com/rss.xml
 https://eukaryotewritesblog.com/feed/
 https://existentialcomics.com/rss.xml
+https://feeds.simplecast.com/82FI35Px
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFy9hgi7oH9pFBE4BwJMKRw
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9z4-lvnluk10Ix3qsqwivA
 https://www.farnamstreetblog.com/feed/
