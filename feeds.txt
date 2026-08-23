@@ -96,6 +96,7 @@ https://www.kenkoonwong.com/index.xml
 https://www.eleanorkonik.com/feed
 https://knowingneurons.com/feed/
 https://hemera.bearblog.dev/feed/
+https://henry.codes/rss/writing.xml
 https://solar.lowtechmagazine.com/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCT5Jop5RID99sx5ZukHkO5g
 https://maggieappleton.com/rss.xml
