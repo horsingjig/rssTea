@@ -180,6 +180,7 @@ https://fetchrss.com/feed/1vxr1s7AH7Jy1w2FRI8PYEyo.rss
 https://www.quantamagazine.org/tag/image-gallery/feed/
 https://smoothbrains.net/atom.xml
 https://sublimeinternet.substack.com/feed
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_hzV1UIVP1yKmU_kVN3tFQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCl_AWm-IaQzl73KPlHWf12A
 https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA
 https://rss.libsyn.com/shows/489902/destinations/4181327.xml
