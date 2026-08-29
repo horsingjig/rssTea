@@ -72,6 +72,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCFDxyA1H3VEN0VQwfMe2VMQ
 https://www.henrikkarlsson.xyz/feed
 https://mapuc.substack.com/feed
 https://ia.net/feed
+https://www.isabel-kirschner.de/feed/
 https://jhellerstein.github.io/blog/rss.xml
 https://www.joanwestenberg.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UC87btkMooKKUWYgFOBKhrrA
