@@ -179,6 +179,7 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLyvilVQfIlOUlZV3toQ1mjMDDc
 https://www.kaltura.com/api_v3/getFeed.php?partnerId=2010292&feedId=1_gp615cm8
 https://fetchrss.com/feed/1vxr1s7AH7Jy1w2FRI8PYEyo.rss
 https://www.quantamagazine.org/tag/image-gallery/feed/
+https://scottaaronson.blog/?feed=rss2
 https://smoothbrains.net/atom.xml
 https://sublimeinternet.substack.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_hzV1UIVP1yKmU_kVN3tFQ
