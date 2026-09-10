@@ -6,6 +6,7 @@ https://aethermug.com/atom.xml
 https://artemkirsanov.substack.com/feed
 https://theamericanscholar.org/dept/sections/departments/web-essays/feed/
 https://www.analogue.co/feed/all
+https://anchorsandlinks.com/posts/index.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY0LR5f4leMPO-O9VP4NB_A
 https://www.asimov.press/feed
 https://garden.theory-a.com/index.xml
