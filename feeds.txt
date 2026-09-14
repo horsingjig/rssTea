@@ -45,6 +45,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCCYX4s1DCn51Hpf1peHS30Q
 https://davidoks.blog/feed
 https://davidbessis.substack.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxfI6Hj_ZCVD7H4iQnYz3zQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UCurjdkkbUvxwD1-Chm85zaA
 https://feeds.feedburner.com/dancarlin/history?format=xml
 https://drb.ie/feed/
 https://dynomight.net/feed.xml
