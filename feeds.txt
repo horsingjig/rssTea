@@ -110,6 +110,7 @@ https://blog.mozilla.ai/rss/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqPTW4CeoAgq111DA__mP9g
 https://fetchrss.com/feed/1vxr1s7AH7Jy1vxr0m06mDn1.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCgPllmMx1h-k5ybwzvqNsQw
+https://muratbuffalo.blogspot.com/feeds/posts/default
 https://mickeygalvin.com/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnuffEHe-KtC6jt8BKex6HQ
 https://anchor.fm/s/fed93d6c/podcast/rss
